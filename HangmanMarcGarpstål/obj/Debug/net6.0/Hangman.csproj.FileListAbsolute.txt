@@ -1,0 +1,15 @@
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\obj\Debug\net6.0\Hangman.csproj.AssemblyReference.cache
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\obj\Debug\net6.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfoInputs.cache
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfo.cs
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\obj\Debug\net6.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\bin\Debug\net6.0\Hangman.exe
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\bin\Debug\net6.0\Hangman.deps.json
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\bin\Debug\net6.0\Hangman.runtimeconfig.json
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\bin\Debug\net6.0\Hangman.dll
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\bin\Debug\net6.0\Hangman.pdb
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\obj\Debug\net6.0\Hangman.dll
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\obj\Debug\net6.0\refint\Hangman.dll
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\obj\Debug\net6.0\Hangman.pdb
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\obj\Debug\net6.0\Hangman.genruntimeconfig.cache
+C:\Users\marcg\RiderProjects\En jävla lösning\Hangman\obj\Debug\net6.0\ref\Hangman.dll

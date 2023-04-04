@@ -1,0 +1,30 @@
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\bin\Debug\net6.0\HangmanMarcGarpstål.exe
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\bin\Debug\net6.0\HangmanMarcGarpstål.deps.json
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\bin\Debug\net6.0\HangmanMarcGarpstål.runtimeconfig.json
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\bin\Debug\net6.0\HangmanMarcGarpstål.dll
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\bin\Debug\net6.0\HangmanMarcGarpstål.pdb
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.csproj.AssemblyReference.cache
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.AssemblyInfoInputs.cache
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.AssemblyInfo.cs
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.csproj.CoreCompileInputs.cache
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.dll
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\obj\Debug\net6.0\refint\HangmanMarcGarpstål.dll
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.pdb
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.genruntimeconfig.cache
+C:\Users\marcg\RiderProjects\En jävla lösning\HangmanMarcGarpstål\obj\Debug\net6.0\ref\HangmanMarcGarpstål.dll
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\bin\Debug\net6.0\HangmanMarcGarpstål.exe
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\bin\Debug\net6.0\HangmanMarcGarpstål.deps.json
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\bin\Debug\net6.0\HangmanMarcGarpstål.runtimeconfig.json
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\bin\Debug\net6.0\HangmanMarcGarpstål.dll
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\bin\Debug\net6.0\HangmanMarcGarpstål.pdb
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.csproj.AssemblyReference.cache
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.AssemblyInfoInputs.cache
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.AssemblyInfo.cs
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.csproj.CoreCompileInputs.cache
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.dll
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\obj\Debug\net6.0\refint\HangmanMarcGarpstål.dll
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.pdb
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\obj\Debug\net6.0\HangmanMarcGarpstål.genruntimeconfig.cache
+C:\Users\marcg\OneDrive\Skrivbord\HangmanMarcGarpstål\obj\Debug\net6.0\ref\HangmanMarcGarpstål.dll
